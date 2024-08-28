@@ -4,8 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    
+    "start": "node index.js",  
   },
   "author": "Shubham Nagar",
   "license": "ISC",
@@ -13,6 +12,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "mongoose": "^8.5.4"
+    "mongoose": "^8.5.4",
   }
 }
